@@ -15,6 +15,8 @@ class SecondActivity : AppCompatActivity() {
 
         textView.text = data.toString() + "/////////////"
 
+        
+
 
 
 
